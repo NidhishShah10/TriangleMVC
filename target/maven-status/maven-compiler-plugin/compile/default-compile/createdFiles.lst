@@ -1,0 +1,6 @@
+org\openjfx\TextualView.class
+org\openjfx\FXMLController.class
+org\openjfx\MainApp.class
+org\openjfx\TriangleModel.class
+org\openjfx\TriangleModel$Observer.class
+org\openjfx\GraphicalView.class
